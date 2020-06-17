@@ -1,0 +1,13 @@
+C:\Users\raj\Desktop\CSharp_practice\bin\Debug\CSharp_practice.exe.config
+C:\Users\raj\Desktop\CSharp_practice\bin\Debug\CSharp_practice.exe
+C:\Users\raj\Desktop\CSharp_practice\bin\Debug\CSharp_practice.pdb
+C:\Users\raj\Desktop\CSharp_practice\obj\Debug\CSharp_practice.csprojAssemblyReference.cache
+C:\Users\raj\Desktop\CSharp_practice\obj\Debug\CSharp_practice.exe
+C:\Users\raj\Desktop\CSharp_practice\obj\Debug\CSharp_practice.pdb
+C:\Users\raj\Desktop\CSharp_practice\bin\Debug\CSharp_practice.exe.manifest
+C:\Users\raj\Desktop\CSharp_practice\bin\Debug\CSharp_practice.application
+C:\Users\raj\Desktop\CSharp_practice\obj\Debug\CSharp_practice.exe.manifest
+C:\Users\raj\Desktop\CSharp_practice\obj\Debug\CSharp_practice.application
+C:\Users\raj\Desktop\CSharp_practice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\raj\Desktop\CSharp_practice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\raj\Desktop\CSharp_practice\obj\Debug\CSharp_practice.csproj.CopyComplete
