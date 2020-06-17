@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,6 +20,7 @@ namespace CSharp_practice
             myStruct p2 = p1;
             p2.x = 3;
             Console.WriteLine( "p2.x  = " + p2.x);
+			Console.WriteLine("heyyy");
             Console.ReadLine();
         }
     }
